@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="textview">Love Calculator</string>
+    <string name="name_one">Your Name</string>
+    <string name="name_two">Partners Name</string>
+    <string name="button">Calculate</string>
+</resources>
